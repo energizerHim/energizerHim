@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/springBoot-runner-6DB33F?style=for-the-badge&logo=springboot&logoColor=f5f5f5"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/javascript-runner-F7DF1E?style=for-the-badge&logo=javascript&logoColor=f5f5f5"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/springBoot-runner-f5f5f5?style=for-the-badge&logo=springboot&logoColor=6DB33F"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/javascript-runner-f5f5f5?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=energizerHim&show_icons=true&theme=maroongold)
 <!--
