@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/springBoot-steadiness-green?style=for-the-badge&logo=springboot&logoColor=6DB33F"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/javascript-steadiness-green?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/mysql-steadiness-green?style=for-the-badge&logo=mysql&logoColor=4479A1"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/postgresql-steadiness-green?style=for-the-badge&logo=postgresql&logoColor=4169E1"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/intellijidea-steadiness-green?style=for-the-badge&logo=intellijidea&logoColor=000000"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/amazonec2-steadiness-green?style=for-the-badge&logo=amazonec2&logoColor=FF9900"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/springBoot-steadiness-green?style=flat-square&logo=springboot&logoColor=6DB33F"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/javascript-steadiness-green?style=flat-square&logo=javascript&logoColor=F7DF1E"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/mysql-steadiness-green?style=flat-square&logo=mysql&logoColor=4479A1"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/postgresql-steadiness-green?style=flat-square&logo=postgresql&logoColor=4169E1"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/intellijidea-steadiness-green?style=flat-square&logo=intellijidea&logoColor=000000"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/amazonec2-steadiness-green?style=flat-square&logo=amazonec2&logoColor=FF9900"/></a>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=energizerHim&show_icons=true&theme=maroongold)
 <!--
