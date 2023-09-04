@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/springBoot-runner-6DB33F?style=for-the-badge&logo=appveyor&logoColor=f5f5f5"/></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhimchan@naver.com&show_icons=true&theme=radical)
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/springBoot-runner-6DB33F?style=for-the-badge&logo=springboot&logoColor=f5f5f5"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=energizerHim.com&show_icons=true&theme=radical)
 <!--
 **energizerHim/energizerHim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
